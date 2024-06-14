@@ -1,4 +1,4 @@
-# To-Do List Application
+# Daily You (To-Do List) Application
 
 This is a cross-platform mobile application built using React Native, HTML5, CSS3, and Firebase for real-time data synchronization. It offers a seamless user interface designed in Figma, employs Redux for state management, and utilizes TypeScript for type-safe programming.
 
